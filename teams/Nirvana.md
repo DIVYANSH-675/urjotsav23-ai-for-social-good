@@ -1,12 +1,16 @@
 ## Team name
-Fill team name her
+Nirvana
 ## Team members
-Fill team members name here
+Divyansh Gupta (22CS3025)
+
+Jigyasu Patel (22CS3031)
+
+Nishant Nischal (22CS3042)
 
 ## Idea
-Fill idea here
+AI-assisted chatbot for preliminary diagnosis of disease
 
 ## Repository link
-
+https://github.com/DIVYANSH-675/Nirvana_AI_Hackathon.git
 
 ## Any other relevant link
